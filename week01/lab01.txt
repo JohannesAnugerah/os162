@@ -17,3 +17,5 @@ drwxr-xr-x  2 johannes.anugerah StafCS 4096 Sep 12 21:35 week08
 drwxr-xr-x  2 johannes.anugerah StafCS 4096 Sep 12 21:35 week09
 drwxr-xr-x  2 johannes.anugerah StafCS 4096 Sep 12 21:36 week10
 /home/fasilkom/mahasiswa/j/johannes.anugerah/os162/week01
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is 12 Sep 2016 at 22:20:56
